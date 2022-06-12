@@ -33,4 +33,4 @@ The aim of this project is to create an automated pipeline that takes in data fr
 
 • Include data from various sources.
 
-• Carry out analysis of the transformed on Power BI (In progress).
+• Carry out analysis of the transformed data on Power BI (https://github.com/saran820/Boston-Crime-Data-Analysis-Report).
